@@ -11,7 +11,7 @@ class Person{
     }
 }
 
-
+//should be the name of the file (was supposed to name it starting with capital letter but whatever)
 public class oneClass {
     public static void main(String[] args) {
         // new keyword -> stores the object in a new memory space
